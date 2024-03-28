@@ -1,6 +1,5 @@
 # 💫 About Me:
-🎓 I’m currently a Trainee Engineer at Providence College of Engineering<br>💻 I’m developing my skills in software development, web and mobile app development <br>🤖 I’m looking for help with developing AR tech<br>📖 I’m currently learning web3 technology<br>💬 Ask me about Project building<br>⚡ Fun fact -I speak fluent HTML and CSS.
-
+🎓 I’m currently a Trainee Engineer at Providence College of Engineering<br>💻 I’m developing my skills in software development, web and mobile app development <br>🤖 I’m looking for help with developing AR tech<br>📖 I’m currently learning web3 technology<br>💬 Ask me about Project building<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anand-sudeep-915a80226) 
